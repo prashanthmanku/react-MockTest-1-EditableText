@@ -1,5 +1,6 @@
-The goal of this coding exam is to quickly get you off the ground with **Conditional Rendering**.
+## LIVE OUTPUT LINK :- <a href='https://prashedittext.ccbp.tech/'>EDITABLE TEXT</a>
 
+The goal of this coding exam is to quickly get you off the ground with **Conditional Rendering**.
 
 ### Refer to the image below:
 
@@ -8,7 +9,6 @@ The goal of this coding exam is to quickly get you off the ground with **Conditi
     <img src="https://assets.ccbp.in/frontend/content/react-js/editable-text-input-output.gif" alt="editable-text-input" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
-
 
 ### Design Files
 
@@ -47,8 +47,6 @@ The app must have the following functionalities
 
 </details>
 
-
-
 ### Important Note
 
 <details>
@@ -76,12 +74,10 @@ The app must have the following functionalities
 <div style="background-color: #ffffff; width: 150px; padding: 10px; color: black">Hex: #ffffff</div>
 <div style="background-color: #cbd2d9; width: 150px; padding: 10px; color: black">Hex: #cbd2d9</div>
 
-
 </details>
 
 <details>
 <summary>Font-families</summary>
-
 
 - Roboto
 
@@ -91,4 +87,3 @@ The app must have the following functionalities
 >
 > - All components you implement should go in the `src/components` directory.
 > - Don't change the component folder names as those are the files being imported into the tests.
-
